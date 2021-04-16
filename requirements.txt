@@ -1,0 +1,6 @@
+flask
+pillow
+ISR
+numpy
+werkzeug
+tensorflow
